@@ -4,5 +4,5 @@ The above joke was rejected!
 This line modified in accordance with "Solution" instruction #2, on p.44 of book
 Extra
 chapter 01:
-
+Content for chapter 1
 chapter 02:
